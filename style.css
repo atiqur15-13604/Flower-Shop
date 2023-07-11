@@ -1,0 +1,28 @@
+.btn-primary{
+   background-color: #E55473;
+   border-radius: 5px;
+   padding: 15px 15px;
+   border : none;
+   color : white;
+}
+
+.banner-title{
+   color: #272727;
+   font-family: Lato;
+   font-size: 65px;
+   font-style: normal;
+   font-weight: 800;
+   line-height: normal;
+}
+.banner-pic{
+   width: 500px;
+}
+
+.banner{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap : 50px;
+   margin : 50px 100px 0px 150px;
+
+}
